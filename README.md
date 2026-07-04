@@ -11,4 +11,4 @@ Both are zero-backend: one `SKILL.md` + your own Notion database. Bilingual (EN 
 
 > *You have to become a compounding person before you can be a good compounding investor.*
 
-Feedback and issues are very welcome — I read all of them.
+Feedback and issues are very welcome — I read all of them. 🙌
